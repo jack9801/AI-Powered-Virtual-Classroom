@@ -4,8 +4,8 @@
 
 To use this project, you need to set up the backend and machine learning backend either locally or in a production environment. The repositories for these are:
 
-- [Rural Classroom Server](https://github.com/shaukatalidev/rural_classroom_server.git)
-- [BTP ML Backend](https://github.com/shaukatalidev/btp-ml-backend.git)
+- [Rural Classroom Server](https://github.com/jack9801/AI-Powered-Virtual-Classroom/tree/main/Rural_Classroom_client)
+- [BTP ML Backend]()
 
 After setting up the backends, update the `endpoints.js` file in this project to configure the base URLs. Replace the following variables with the appropriate URLs for your setup:
 
